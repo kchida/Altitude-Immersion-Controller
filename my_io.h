@@ -5,7 +5,7 @@
  * Description: This is a simple controller for an altitude immersion pressure chamber.
  */
 
-#if !defined(MY_IO_H)		/* Prevents including this file multiple times */
+#if !defined(MY_IO_H)      // Prevents including this file multiple times
 #define MY_IO_H
 #include <stdint.h>
 
